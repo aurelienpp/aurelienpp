@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 ### 💬 Let's Connect!
 - 🏗 Working on exciting projects!
 - 🚀 Passionate about open-source development
-- 📫 Reach me at **[Your Email or Social Media Links]**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-p-03b45712a/)
 
 ---
 
