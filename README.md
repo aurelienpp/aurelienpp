@@ -1,26 +1,49 @@
-## Hi there 👋
+### Hi there, I'm Aurelien! 👋
 
+Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building cool projects. Here are some stats about my work:
+
+---
+
+## 🚀 About Me
+- 👨‍💻 Professional Python Developer
+- 🏠 Enthusiast in home automation (**Domotic**) projects
+- 🖥️ Managing my own **OpenMediaVault** server with **Docker** for self-hosted applications
+- 🔧 Love tinkering with tech and automation
+
+---
 
 ## 🚀 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurelienpp&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelienpp&layout=compact&theme=tokyonight)
+### 📊 Overall GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurelienpp&show_icons=true&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aurelienpp&theme=tokyonight)
+### 📌 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelienpp&layout=compact&theme=radical)
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelienpp&theme=radical)
+
+---
+
+## 📈 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurelienpp&theme=radical)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienpp&theme=radical)
+
+![GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurelienpp&theme=radical)
+
+---
+
+## 📅 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurelienpp&theme=react-dark)
 
-<!--
-**aurelienpp/aurelienpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💬 Let's Connect!
+- 🏗 Working on exciting projects!
+- 🚀 Passionate about open-source development
+- 📫 Reach me at **[Your Email or Social Media Links]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔥 **Keep coding and stay awesome!** 🚀
