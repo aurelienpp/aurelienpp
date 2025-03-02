@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+## 🚀 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurelienpp&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelienpp&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aurelienpp&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurelienpp&theme=react-dark)
+
 <!--
 **aurelienpp/aurelienpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
